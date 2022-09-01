@@ -50,6 +50,9 @@ This invokes the unittest framework in an unusually interactive mode, because fo
 
 Of the requirements, 1a, 2a, 2c, 2d, 2e, and 2f have already been implemented and tested.  1b will be helpful for documentation, 2b, 2g and 2gI are interesting variations to test, and 3 makes testing the SOM much easier.
 
+##NB: credits
+I coded these algorithms up from several engineering textbooks I had.  I can't remember whether I copied the rotation algorithm from somewhere else.  The variable names don't give me enough of a clue.
+
 
 ## TO DO:
 
